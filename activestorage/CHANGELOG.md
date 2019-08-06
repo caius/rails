@@ -1,3 +1,7 @@
+*   Switch from `azure-storage` gem to `azure-storage-blob` gem for Azure service.
+
+    *Peter Zhu*
+
 *   The Poppler PDF previewer renders a preview image using the original
     document's crop box rather than its media box, hiding print margins. This
     matches the behavior of the MuPDF previewer.
