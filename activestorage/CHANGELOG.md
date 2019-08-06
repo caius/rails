@@ -1,3 +1,7 @@
+*   Switch from `azure-storage` gem to `azure-storage-blob` gem for Azure service.
+
+    *Peter Zhu*
+
 ## Rails 6.0.3.4 (October 07, 2020) ##
 
 *   No changes.
