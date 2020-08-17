@@ -1,3 +1,5 @@
+## Rails 6.0.3.2.azure (August 17, 2020) ##
+
 *   Set content disposition in direct upload using `filename` and `disposition` parameters to `ActiveStorage::Service#headers_for_direct_upload`.
 
     *Peter Zhu*

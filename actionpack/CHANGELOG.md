@@ -1,3 +1,7 @@
+## Rails 6.0.3.2.azure (August 17, 2020) ##
+
+*   No changes.
+
 ## Rails 6.0.3.2 (June 17, 2020) ##
 
 *   [CVE-2020-8185] Only allow ActionableErrors if show_detailed_exceptions is enabled
